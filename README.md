@@ -7,4 +7,4 @@ Drop is life saving app. <p>This is my 3rd year(3-II) CSE-319, Software Engineer
 4. Also admin can available user(blood donor) list. 
 5. Admin can search by blood group, user(blood donor) name.
 6. If any user(blood donor) not available it will show and  many more.
-Here, also using MySql for all user data will be save.
+<p>Here, also using MySql for all user data will be save.</p>
