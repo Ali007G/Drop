@@ -1,3 +1,3 @@
 # Drop
-Drop is life saving app. This is my 3rd year(3-II) CSE-319, Software Engineering lab course project.
+Drop is life saving app. <p>This is my 3rd year(3-II) CSE-319, Software Engineering lab course project.</p>
 
